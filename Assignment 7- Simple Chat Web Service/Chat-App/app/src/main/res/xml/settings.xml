@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:enabled="false"
+        android:key="sender-id"
+        android:title="@string/sender_id_pref"
+        android:summary="%s"/>
+    <EditTextPreference
+        android:enabled="false"
+        android:key="user-name"
+        android:title="@string/user_name_pref"
+        android:summary="%s"/>
+    <EditTextPreference
+        android:enabled="false"
+        android:key="client-id"
+        android:title="@string/client_id_pref"
+        android:summary="%s"/>
+</PreferenceScreen>

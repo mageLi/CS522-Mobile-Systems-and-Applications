@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat Server (Basic)</string>
+    <string name="user_name">Username</string>
+    <string name="user_name_summary">Name by which user is identified in chat messages</string>
+    <string name="app_port">6666</string>
+    <string name="app_port_summary">Port that is used on this device for sending or receiving chat messages</string>
+
+    <!-- String literals in the UI -->
+    <string name="destination_host">Destination Host</string>
+    <string name="target_host_default">10.0.2.2</string>
+    <string name="destination_port">Destination Port</string>
+    <string name="target_port_default">6666</string>
+    <string name="message_edit_text">Type your message here.</string>
+    <string name="send_label">SEND</string>
+    <string name="next_label">NEXT</string>
+    <string name="show_peers">PEERS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="title_activity_chatserver">ChatServer</string>
+    <string name="title_activity_view_peers">ViewPeers</string>
+    <string name="title_activity_view_peer">ViewPeer</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="view_user_name">User Name:</string>
+    <string name="view_address">Address:</string>
+    <string name="view_port">Port:</string>
+    <string name="view_timestamp">Last Seen:</string>
+
+    <string name="default_user_name">client</string>
+    <string name="default_app_port">6666</string>
+
+</resources>

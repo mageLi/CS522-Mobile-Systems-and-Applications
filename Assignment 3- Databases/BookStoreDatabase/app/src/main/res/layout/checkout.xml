@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:scrollbars="vertical">
+
+	<TextView android:id="@+id/title"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:text="" />
+			
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:text="Name:" />
+	<EditText android:id="@+id/name"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:text="" />		
+	
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:text="Email:" />
+	<EditText android:id="@+id/email"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:text="" />
+	
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:text="CreditAccount:" />
+	<EditText android:id="@+id/credit"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:text="" />
+			
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:text="Address:" />
+	<EditText android:id="@+id/address"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:text="" />
+</LinearLayout>

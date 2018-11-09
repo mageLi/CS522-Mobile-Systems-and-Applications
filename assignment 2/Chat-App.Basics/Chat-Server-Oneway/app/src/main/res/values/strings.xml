@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat Server (Basic)</string>
+    <string name="user_name">Client</string>
+    <string name="app_port">6666</string>
+    <string name="latitude">40.744906</string>
+    <string name="longitude">-74.023937</string>
+    
+    <!-- String literals in the UI -->
+    <string name="destination_host">Destination Host</string>
+    <string name="target_host_default">10.0.2.2</string>
+    <string name="destination_port">Destination Port</string>
+    <string name="target_port_default">6666</string>
+    <string name="message_edit_text">Type your message here.</string>
+    <string name="send_label">SEND</string>
+    <string name="next_label">NEXT</string>
+    <string name="menu_show_peers">SHOW PEERS</string>
+</resources>

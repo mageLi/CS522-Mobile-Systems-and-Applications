@@ -1,0 +1,17 @@
+<menu xmlns:tools="schemas.android.com/tools"
+    tools:context=".activities.ChatServer"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <!-- Menu for the main ChatActivity activity. -->
+
+    <item
+        android:id="@+id/peers"
+        android:showAsAction="ifRoom"
+        android:title="@string/show_peers"/>
+
+    <item
+        android:id="@+id/settings"
+        android:showAsAction="ifRoom"
+        android:title="@string/settings"/>
+
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="schemas.android.com/tools"
+    tools:context=".activities.MainActivity"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Menu for the main BookStore CAB. -->
+
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/ic_menu_delete"
+        android:showAsAction="ifRoom"
+        android:title="@string/delete"/>
+
+</menu>

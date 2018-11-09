@@ -1,0 +1,23 @@
+Apr 26, 2018 10:10:29 PM edu.stevens.cs522.chat.webservice.Main info
+INFO: Starting HTTP server...
+Apr 26, 2018 10:10:30 PM org.glassfish.grizzly.http.server.NetworkListener start
+INFO: Started listener bound to [192.168.0.17:8080]
+Apr 26, 2018 10:10:30 PM org.glassfish.grizzly.http.server.HttpServer start
+INFO: [HttpServer] Started.
+Apr 26, 2018 10:10:30 PM edu.stevens.cs522.chat.webservice.Main info
+INFO: Listening at http://192.168.0.17:8080
+Apr 26, 2018 10:10:30 PM edu.stevens.cs522.chat.webservice.Main info
+INFO: Service available at http://192.168.0.17:8080/chat
+Hit enter to stop...
+Apr 27, 2018 9:21:25 PM edu.stevens.cs522.chat.webservice.ChatResource messages
+INFO: DEBUG: Received getMessages  request
+Apr 27, 2018 9:21:25 PM edu.stevens.cs522.chat.webservice.ChatResource$2 write
+INFO: DEBUG: Listed all messages)
+Apr 27, 2018 9:47:40 PM edu.stevens.cs522.chat.webservice.ChatResource messages
+INFO: DEBUG: Received getMessages  request
+Apr 27, 2018 9:47:40 PM edu.stevens.cs522.chat.webservice.ChatResource$2 write
+INFO: DEBUG: Listed all messages)
+Apr 27, 2018 9:52:31 PM edu.stevens.cs522.chat.webservice.ChatResource messages
+INFO: DEBUG: Received getMessages  request
+Apr 27, 2018 9:52:31 PM edu.stevens.cs522.chat.webservice.ChatResource$2 write
+INFO: DEBUG: Listed all messages)

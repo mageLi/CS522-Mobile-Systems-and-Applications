@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Li Tian\'s Chat App</string>
+    <string name="user_name_pref">Username</string>
+    <string name="user_name_summary">Name by which user is identified in chat messages</string>
+    <string name="client_id_pref">Client ID</string>
+    <string name="client_id_summary">UUID for this installation of the app</string>
+
+    <string name="sender_id_pref">Sender ID</string>
+    <string name="sender_id_summary">ID for this client on the chat server</string>
+
+    <string name="latitude">40.744906</string>
+    <string name="longitude">-74.023937</string>
+
+    <!-- String literals in the UI -->
+
+    <string name="base_uri">http://127.0.0.1:8080/chat</string>
+
+    <string name="message_edit_text">Type your message here.</string>
+    <string name="send_label">SEND</string>
+    <string name="register_label">REGISTER</string>
+    <string name="show_peers">PEERS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="title_activity_chatserver">ChatServer</string>
+    <string name="title_activity_view_peers">ViewPeers</string>
+    <string name="title_activity_view_peer">ViewPeer</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="chat_user_name">Chat Name:</string>
+    <string name="chat_room">Chat Room:</string>
+    <string name="chat_room_text">Chat Room</string>
+
+    <string name="chat_name">User Name:</string>
+    <string name="chat_name_text">User Name</string>
+
+    <string name="client_id">Client ID:</string>
+    <string name="client_id_text">Client ID</string>
+
+    <!-- Fake HTTP responses -->
+    <string name="http_response_unavailable">Service Unavailable</string>
+    <string name="http_response_unknown">Client does not understand</string>
+
+    <!-- For viewing peer information -->
+    <string name="view_user_name">User name:</string>
+    <string name="view_timestamp">Last seen:</string>
+    <string name="view_longitude">Longitude:</string>
+    <string name="view_latitude">Latitude:</string>
+
+
+
+</resources>

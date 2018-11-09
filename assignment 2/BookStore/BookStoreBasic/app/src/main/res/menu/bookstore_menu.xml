@@ -1,0 +1,20 @@
+<menu xmlns:tools="schemas.android.com/tools"
+    tools:context=".activities.MainActivity"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <!-- Menu for the main BookStore activity. -->
+
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/ic_menu_add"
+        app:showAsAction="ifRoom"
+        android:title="@string/add"/>
+
+    <item
+        android:id="@+id/checkout"
+        android:icon="@drawable/ic_menu_clear_playlist"
+        app:showAsAction="ifRoom"
+        android:title="@string/checkout"/>
+
+</menu>
